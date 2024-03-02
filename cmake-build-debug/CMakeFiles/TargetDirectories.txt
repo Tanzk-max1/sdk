@@ -1,0 +1,6 @@
+D:/sdkstudy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/sdkstudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/sdkstudy/cmake-build-debug/src/CMakeFiles/Buried.dir
+D:/sdkstudy/cmake-build-debug/src/CMakeFiles/Buried_static.dir
+D:/sdkstudy/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/sdkstudy/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
